@@ -1,0 +1,19 @@
+{
+  "name": "dc-bot",
+  "version": "1.0.0",
+  "description": "Testing Discord bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KiranM",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "discord.js": "^11.5.1",
+    "dotenv": "^6.2.0",
+    "express": "^4.17.1",
+    "ffmpeg": "0.0.4",
+    "node-fetch": "^2.6.1"
+  }
+}
